@@ -1,0 +1,199 @@
+/* Pantallas menores a 1200px */
+@media (max-width: 1200px) {
+    .footer-section {
+        flex: 1 1 30%;
+    }
+
+    .techniques {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .technique-card {
+        width: 100%;
+    }
+
+    .swiper-container {
+        max-width: 900px;
+    }
+}
+
+/* Para dispositivos tablet y móviles */
+@media (max-width: 768px) {
+    header {
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+
+    .logo h1 {
+        margin-left: 10px;
+        font-size: 3rem;
+    }
+
+    nav ul {
+        display: none;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background-color: #495453;
+        flex-direction: column;
+        padding: 10px 0;
+        margin: 0;
+        border-radius: 0 0 8px 8px;
+        text-align: center;
+        z-index: 100;
+    }
+
+    nav.active ul {
+        display: flex;
+    }
+
+    nav ul li {
+        padding: 10px 0;
+        border-bottom: 1px solid #fff;
+    }
+
+    nav ul li:last-child {
+        border-bottom: none;
+    }
+
+    nav ul li a {
+        color: white;
+        font-size: 1.2em;
+    }
+
+    .hamburger-menu {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        width: 30px;
+        height: 22px;
+        cursor: pointer;
+        margin-right: 15px;
+    }
+
+    /* Ajuste para el botón de cambio de idioma */
+    .language-toggle {
+        display: flex;
+        align-items: center;
+        margin-left: 10px;  /* Espacio entre logo y el botón */
+        z-index: 10;
+    }
+
+    .language-toggle button {
+        background: none;
+        border: none;
+        color: var(--color-white);
+        font-size: 1.2rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 5px 10px;
+    }
+
+    .language-toggle button:hover {
+        color: var(--color-secondary);
+    }
+
+    .presentacion-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .presentacion-texto {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .presentacion-texto h2 {
+        font-size: 2rem;
+    }
+
+    .presentacion-imagen img {
+        max-width: 300px;
+    }
+
+    .technique-card {
+        width: 100%;
+    }
+}
+
+/* Para dispositivos móviles (480px o menos) */
+@media (max-width: 480px) {
+    header {
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+
+    .logo h1 {
+        margin-left: 5px;
+        font-size: 2.5rem; 
+    }
+
+    nav ul li {
+        padding: 10px;
+    }
+
+    .presentacion {
+        padding: 40px 15px;
+    }
+
+    .presentacion-texto h2 {
+        font-size: 1.8rem;
+    }
+
+    .presentacion-texto p {
+        font-size: 1rem;
+    }
+
+    .presentacion-imagen img {
+        max-width: 100%;
+    }
+
+    .techniques {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .technique-card {
+        width: 100%;
+    }
+
+    .swiper-slide {
+        width: 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .swiper-container {
+        padding: 0 5px;
+        overflow: hidden;
+    }
+
+    .contact-form {
+        width: 90%;
+    }
+
+    .contact-form h2 {
+        font-size: 2rem;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        font-size: 1rem;
+        max-width: 100%;
+        margin: 0;
+    }
+
+    .contact-form button {
+        width: 100%;
+    }
+}

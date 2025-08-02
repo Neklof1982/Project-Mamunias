@@ -1,0 +1,105 @@
+/* products.css */
+.products {
+    background-color: transparent;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.products h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* CONTENEDOR DEL CARRUSEL SWIPER */
+.swiper-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Slides: Swiper controlar ancho */
+.swiper-slide {
+    background-color: var(--color-white);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    flex: 0 0 auto;
+    width: auto;
+}
+
+.swiper-slide img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 15px;
+    object-fit: cover;
+}
+
+.swiper-slide h3 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    line-height: 1.5;
+    height: 40px;
+    overflow: hidden;
+}
+
+.swiper-slide .price {
+    font-size: 1.2em;
+    margin-bottom: auto;
+}
+
+.swiper-slide .add-to-cart {
+    background-color: var(--color-secondary);
+    color: var(--color-white);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+/* 
+.swiper-slide .add-to-cart:hover {
+    background-color: #ff6600;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    background-color: var(--color-white);
+    color: var(--color-white);
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 10;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.swiper-button-prev {
+    left: 10px;
+}
+
+.swiper-button-next {
+    right: 10px;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    background-color: #ff6600;
+    color: var(--color-white);
+}
+
+.swiper-button-next:active,
+.swiper-button-prev:active {
+    background-color: var(--color-secondary);
+    color: var(--color-white);
+}
+*/

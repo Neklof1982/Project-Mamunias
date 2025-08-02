@@ -1,0 +1,110 @@
+{
+  "title": "Mamunias",
+  "logo_title": "Mamunias",
+  "nav_home": "Inicio",
+  "nav_products": "Productos",
+  "nav_contact": "Contactar",
+  "aria_change_language": "Cambiar idioma",
+
+  "about_me_title": "Sobre mí",
+  "about_me_paragraph1": "¡Hola! Soy Mamen, especialista en manicura profesional y apasionada del arte en uñas. Desde hace más de 8 años me dedico a embellecer manos con técnicas modernas como el esmaltado permanente, el gel y el polygel. Mi formación constante y la búsqueda de tendencias me han llevado a trabajar con productos de alta calidad y a ofrecer resultados duraderos y elegantes.",
+  "about_me_paragraph2": "Mi misión es ayudarte a lucir unas uñas que reflejen tu estilo único, cuidando siempre la salud de tu uña natural. Cada servicio es personalizado, porque sé que cada cliente es diferente. Si amas las uñas tanto como yo, estás en el lugar indicado. ¡Bienvenida a Mamunias!",
+
+  "hero_title": "Todo para tu manicura",
+  "hero_subtitle": "Los mejores productos para cuidar tus uñas",
+  "hero_cta": "Productos",
+
+  "technique_permanent_title": "Esmaltado Permanente",
+  "technique_permanent_desc": "El esmaltado permanente es una técnica popular que permite que el esmalte de uñas dure mucho más tiempo que el esmalte tradicional. A diferencia del esmalte común, que se seca al aire, el esmaltado permanente se seca bajo una lámpara UV o LED. Esta técnica proporciona un acabado brillante, duradero y resistente a los arañazos, haciendo que las uñas luzcan impecables durante semanas. Ideal para personas que buscan un look duradero sin preocuparse por retoques frecuentes. Además, el esmalte permanente es más resistente al desgaste diario, lo que lo convierte en una excelente opción para las personas con una agenda ocupada.",
+  "technique_permanent_img_alt": "Imagen de esmaltado permanente",
+
+  "technique_softgel_title": "Uñas Soft Gel",
+  "technique_softgel_desc": "Las uñas soft gel son una opción intermedia entre las uñas naturales y las de acrílico. Se caracterizan por ser ligeras y flexibles, proporcionando un acabado natural que se adapta perfectamente a la uña original. La principal ventaja de las uñas soft gel es que son menos dañinas para las uñas naturales que otras técnicas, como las de acrílico o gel duro. El gel suave es menos denso y no requiere de una lima agresiva para su colocación o retirada. Además, se puede usar para alargar las uñas sin dañar la uña natural, lo que las convierte en una opción más saludable.",
+  "technique_softgel_img_alt": "Imagen de uñas soft gel",
+
+  "technique_gel_title": "Uñas de Gel",
+  "technique_gel_desc": "Las uñas de gel son una de las técnicas más populares en los salones de manicura debido a su durabilidad y acabado profesional. Esta técnica implica la aplicación de una capa de gel sobre la uña natural, la cual se endurece bajo una lámpara UV o LED. Las uñas de gel son conocidas por su resistencia, lo que las hace ideales para personas que tienen uñas débiles o que tienden a romperse con facilidad. Además, pueden dar un acabado más natural que las uñas de acrílico, ya que el gel se adapta mejor a la forma de la uña. A pesar de ser duraderas, las uñas de gel también son flexibles y cómodas.",
+  "technique_gel_img_alt": "Imagen de uñas de gel",
+
+  "technique_acrylic_title": "Uñas Acrílico",
+  "technique_acrylic_desc": "Las uñas acrílicas son una opción clásica y duradera para aquellas personas que buscan unas uñas fuertes y de larga duración. Esta técnica se realiza mediante la combinación de un líquido y un polvo acrílico que se aplica sobre la uña natural o sobre una extensión. Una vez que el acrílico se seca, se forma una capa fuerte y resistente. Aunque las uñas acrílicas son conocidas por ser más duras que las de gel, también pueden ser algo más frágiles si no se mantienen adecuadamente. Esta técnica es perfecta para quienes desean uñas largas o una base fuerte para diseños elaborados.",
+  "technique_acrylic_img_alt": "Imagen de uñas acrílicas",
+
+  "technique_polygel_title": "Uñas de Polygel",
+  "technique_polygel_desc": "Las uñas de polygel son una mezcla entre las uñas de gel y acrílicas, lo que les proporciona las mejores características de ambas técnicas. El polygel es ligero, flexible y resistente, lo que hace que las uñas se vean naturales pero con la misma durabilidad que las acrílicas. Además, el polygel se aplica sin el uso de productos químicos agresivos, lo que lo convierte en una opción menos dañina para las uñas naturales. La aplicación del polygel no requiere limado, lo que reduce el riesgo de dañar la uña natural. Además, las uñas de polygel no requieren mucho mantenimiento, ya que no tienden a levantarse o despegarse fácilmente.",
+  "technique_polygel_img_alt": "Imagen de uñas de polygel",
+
+  "products_featured_title": "Productos Destacados",
+
+  "product_kit_manicure": "Kit de Manicura",
+  "product_kit_manicure_alt": "Imagen del kit de manicura",
+
+  "product_red_nail_polish": "Esmalte Rojo",
+  "product_red_nail_polish_alt": "Imagen de esmalte rojo",
+
+  "product_nail_cleaner": "Limpiador de Uñas",
+  "product_nail_cleaner_alt": "Imagen de limpiador de uñas",
+
+  "product_base_coat_gel": "Base Coat Gel",
+  "product_base_coat_gel_alt": "Imagen de base coat gel",
+
+  "product_top_coat_shiny": "Top Coat Brillante",
+  "product_top_coat_shiny_alt": "Imagen de top coat brillante",
+
+  "product_uv_lamp": "Lámpara UV",
+  "product_uv_lamp_alt": "Imagen de lámpara UV",
+
+  "product_purple_nail_polish": "Esmalte Púrpura",
+  "product_purple_nail_polish_alt": "Imagen de esmalte púrpura",
+
+  "product_semi_permanent_nail_polish": "Esmalte Semi Permanente",
+  "product_semi_permanent_nail_polish_alt": "Imagen de esmalte semi permanente",
+
+  "product_professional_nail_file": "Lima de Uñas Profesional",
+  "product_professional_nail_file_alt": "Imagen de lima de uñas profesional",
+
+  "product_builder_gel": "Gel de Construcción",
+  "product_builder_gel_alt": "Imagen de gel de construcción",
+
+  "product_polygel": "Polygel",
+  "product_polygel_alt": "Imagen de polygel",
+
+  "product_cuticle_oil": "Aceite para Cutículas",
+  "product_cuticle_oil_alt": "Imagen de aceite para cutículas",
+
+  "contact_title": "Contacto",
+  "contact_name_placeholder": "Nombre",
+  "contact_name_error": "El nombre debe contener solo letras y espacios, hasta 30 caracteres.",
+  "contact_email_placeholder": "Correo electrónico",
+  "contact_email_error": "Ingresa un correo válido.",
+  "contact_message_placeholder": "Mensaje",
+  "contact_message_error": "El mensaje debe tener al menos 10 caracteres.",
+  "contact_send_button": "Enviar",
+
+  "footer_contact_title": "Contactar",
+  "footer_email_label": "Email:",
+  "footer_email_link": "Mandame un correo",
+  "footer_schedule_label": "Horario:",
+  "footer_schedule_days": "Lunes - Viernes",
+  "footer_schedule_hours": "18:00h - 20:00h",
+
+  "footer_about_title": "Sobre Mamunias",
+  "footer_about_link": "Sobre mi",
+
+  "aria_instagram": "Ir a Instagram",
+  "aria_tiktok": "Ir a TikTok",
+  "aria_facebook": "Ir a Facebook",
+  "aria_x_twitter": "Ir a X Twitter",
+
+  "footer_techniques_title": "Técnicas de manicura",
+  "footer_technique_permanent": "Esmaltado permanente",
+  "footer_technique_softgel": "Uñas soft gel",
+  "footer_technique_gel": "Uñas de gel",
+  "footer_technique_acrylic": "Uñas acrílico",
+  "footer_technique_polygel": "Uñas de polygel",
+
+  "footer_rights": "Todos los derechos reservados.",
+  "footer_web_design": "Diseño y desarrollo web por",
+  "footer_dev_link_text": "J.A.R."
+
+}

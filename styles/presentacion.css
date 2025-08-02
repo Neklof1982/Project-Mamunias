@@ -1,0 +1,43 @@
+/* presentation.css */
+.presentacion {
+    background-color: transparent;
+    padding: 60px 20px;
+    margin: 40px auto;
+}
+
+.presentacion-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.presentacion-imagen img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.presentacion-texto {
+    flex: 1;
+    max-width: 600px;
+    color: var(--color-white);
+    text-align: left;
+}
+
+.presentacion-texto h2 {
+    font-size: 2.5rem;
+    color: var(--color-white);
+    margin-bottom: 20px;
+}
+
+.presentacion-texto p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Mamunias",
+  "logo_title": "Mamunias",
+  "nav_home": "Home",
+  "nav_products": "Products",
+  "nav_contact": "Contact",
+  "aria_change_language": "Change language",
+  
+  "about_me_title": "About Me",
+  "about_me_paragraph1": "Hello! I'm Mamen, a professional manicure specialist and passionate about nail art. For over 8 years, I have been beautifying hands with modern techniques like permanent polish, gel, and polygel. My constant training and search for trends have led me to work with high-quality products to offer durable and elegant results.",
+  "about_me_paragraph2": "My mission is to help you have nails that reflect your unique style, always caring for the health of your natural nail. Each service is personalized because I know every client is different. If you love nails as much as I do, you are in the right place. Welcome to Mamunias!",
+
+  "hero_title": "Everything for your manicure",
+  "hero_subtitle": "The best products to take care of your nails",
+  "hero_cta": "Products",
+
+  "technique_permanent_title": "Permanent Polish",
+  "technique_permanent_desc": "Permanent polish is a popular technique that allows the nail polish to last much longer than traditional polish. Unlike regular polish, which dries in the air, permanent polish cures under a UV or LED lamp. This technique provides a shiny, durable, and scratch-resistant finish, keeping nails flawless for weeks. Ideal for those looking for a long-lasting look without frequent touch-ups. Additionally, permanent polish is more resistant to daily wear, making it perfect for busy schedules.",
+  "technique_permanent_img_alt": "Permanent Polish",
+
+  "technique_softgel_title": "Soft Gel Nails",
+  "technique_softgel_desc": "Soft gel nails are an intermediate option between natural nails and acrylics. They are light and flexible, providing a natural finish that perfectly adapts to the original nail. The main advantage of soft gel nails is that they are less damaging to natural nails than other techniques like acrylic or hard gel. The soft gel is less dense and does not require aggressive filing for application or removal. Also, it can be used to extend nails without damaging the natural nail, making it a healthier option.",
+  "technique_softgel_img_alt": "Soft Gel Nails",
+
+  "technique_gel_title": "Gel Nails",
+  "technique_gel_desc": "Gel nails are one of the most popular techniques in manicure salons due to their durability and professional finish. This technique involves applying a gel layer over the natural nail, which hardens under a UV or LED lamp. Gel nails are known for their strength, ideal for people with weak or easily broken nails. They also provide a more natural finish than acrylic nails, as the gel adapts better to the nail shape. Despite being durable, gel nails are flexible and comfortable.",
+  "technique_gel_img_alt": "Gel Nails",
+
+  "technique_acrylic_title": "Acrylic Nails",
+  "technique_acrylic_desc": "Acrylic nails are a classic and durable option for those seeking strong, long-lasting nails. This technique combines a liquid and acrylic powder applied over the natural nail or extension. Once dried, acrylic forms a strong and resistant layer. Although acrylic nails are known to be harder than gel nails, they can be more fragile if not properly maintained. This technique is perfect for those who want long nails or a strong base for elaborate designs.",
+  "technique_acrylic_img_alt": "Acrylic Nails",
+
+  "technique_polygel_title": "Polygel Nails",
+  "technique_polygel_desc": "Polygel nails are a blend between gel and acrylic nails, offering the best characteristics of both techniques. Polygel is light, flexible, and resistant, making nails look natural but with the same durability as acrylics. Moreover, polygel is applied without harsh chemicals, making it less damaging to natural nails. Application does not require filing, reducing the risk of nail damage. Also, polygel nails need little maintenance as they don’t tend to lift or peel easily.",
+  "technique_polygel_img_alt": "Polygel Nails",
+
+  "products_featured_title": "Featured Products",
+
+  "product_kit_manicure": "Manicure Kit",
+  "product_kit_manicure_alt": "Manicure Kit",
+
+  "product_red_nail_polish": "Red Nail Polish",
+  "product_red_nail_polish_alt": "Red Nail Polish",
+
+  "product_nail_cleaner": "Nail Cleaner",
+  "product_nail_cleaner_alt": "Nail Cleaner",
+
+  "product_base_coat_gel": "Base Coat Gel",
+  "product_base_coat_gel_alt": "Base Coat Gel",
+
+  "product_top_coat_shiny": "Top Coat Shiny",
+  "product_top_coat_shiny_alt": "Top Coat Shiny",
+
+  "product_uv_lamp": "UV Lamp",
+  "product_uv_lamp_alt": "UV Lamp",
+
+  "product_purple_nail_polish": "Purple Nail Polish",
+  "product_purple_nail_polish_alt": "Purple Nail Polish",
+
+  "product_semi_permanent_nail_polish": "Semi-Permanent Nail Polish",
+  "product_semi_permanent_nail_polish_alt": "Semi-Permanent Nail Polish",
+
+  "product_professional_nail_file": "Professional Nail File",
+  "product_professional_nail_file_alt": "Professional Nail File",
+
+  "product_builder_gel": "Builder Gel",
+  "product_builder_gel_alt": "Builder Gel",
+
+  "product_polygel": "Polygel",
+  "product_polygel_alt": "Polygel",
+
+  "product_cuticle_oil": "Cuticle Oil",
+  "product_cuticle_oil_alt": "Cuticle Oil",
+
+  "contact_title": "Contact",
+  "contact_name_placeholder": "Your name",
+  "contact_name_error": "Name must contain only letters and spaces, up to 30 characters.",
+  "contact_email_placeholder": "Your email",
+  "contact_email_error": "Enter a valid email.",
+  "contact_message_placeholder": "Your message",
+  "contact_message_error": "Message must be at least 10 characters.",
+  "contact_send_button": "Send",
+
+  "footer_contact_title": "Contact",
+  "footer_email_label": "Email:",
+  "footer_email_link": "Send me an email",
+  "footer_schedule_label": "Schedule:",
+  "footer_schedule_days": "Monday - Friday",
+  "footer_schedule_hours": "6:00 PM - 8:00 PM",
+
+  "footer_about_title": "About Mamunias",
+  "footer_about_link": "About me",
+
+  "aria_instagram": "Got to Instagram",
+  "aria_tiktok": "Go to TikTok",
+  "aria_facebook": "Go toFacebook",
+  "aria_x_twitter": "Go to X Twitter",
+
+  "footer_techniques_title": "Manicure Techniques",
+  "footer_technique_permanent": "Permanent Polish",
+  "footer_technique_softgel": "Soft Gel Nails",
+  "footer_technique_gel": "Gel Nails",
+  "footer_technique_acrylic": "Acrylic Nails",
+  "footer_technique_polygel": "Polygel Nails",
+
+"footer_rights": "All rights reserved.",
+"footer_web_design": "Web design and development by",
+"footer_dev_link_text": "J.A.R."
+}

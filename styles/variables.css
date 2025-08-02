@@ -1,0 +1,10 @@
+/* variables.css */
+:root {
+    --color-primary: #978E8C;
+    --color-secondary: #f5c8bf;
+    --color-bg: #f5f5f5;
+    --color-text: #333;
+    --color-white: #ffffff;
+
+    --font-main: 'Arial', sans-serif;
+}
