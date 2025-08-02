@@ -103,7 +103,19 @@
   "footer_technique_acrylic": "Acrylic Nails",
   "footer_technique_polygel": "Polygel Nails",
 
-"footer_rights": "All rights reserved.",
-"footer_web_design": "Web design and development by",
-"footer_dev_link_text": "J.A.R."
+  "footer_rights": "All rights reserved.",
+  "footer_web_design": "Web design and development by",
+  "footer_dev_link_text": "J.A.R.",
+
+  "nombreInvalido": "Name must contain only letters and spaces, up to 30 characters.",
+  "emailInvalido": "Enter a valid email.",
+  "mensajeCorto": "Message must be at least 10 characters.",
+  "confirmarEnvio": "Are you sure you want to send this message?",
+  "siEnviar": "Yes, Send",
+  "cancelar": "Cancel",
+  "gracias": "Thank you for your message!",
+  "mensajeEnviado": "Your message has been sent successfully. I will get back to you as soon as possible.",
+  "errorEnvio": "There was an error sending your message. Please try again later.",
+  "errorConexion": "Connection error. Please check your internet connection and try again."
+
 }
