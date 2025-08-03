@@ -3,6 +3,7 @@
     background-color: transparent;
     padding: 60px 20px;
     margin: 40px auto;
+    min-height: 60vh;
 }
 
 .presentacion-container {
