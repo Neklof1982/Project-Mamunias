@@ -3,8 +3,11 @@ let currentLang = "es";
 
 async function loadTranslations(lang) {
   if (translations[lang]) return translations[lang];
+
+  const basePath = location.pathname.includes("/pages/") ? "../locales/" : "locales/";
+
   try {
-    const res = await fetch(`locales/${lang}.json`);
+    const res = await fetch(`${basePath}${lang}.json`);
     if (!res.ok) throw new Error(`No se pudo cargar ${lang}.json`);
     const data = await res.json();
     translations[lang] = data;
@@ -22,18 +25,21 @@ async function setLanguage(lang) {
   currentLang = lang;
   document.documentElement.lang = lang;
 
-  document.querySelectorAll("[data-i18n]").forEach(el => {
-    const key = el.getAttribute("data-i18n");
-    if (key in data) {
-      if (key === "title") {
-        document.title = data[key];
-      } else if (el.tagName === "INPUT" || el.tagName === "TEXTAREA") {
-        el.placeholder = data[key];
-      } else {
-        el.textContent = data[key];
-      }
+document.querySelectorAll("[data-i18n]").forEach(el => {
+  const key = el.getAttribute("data-i18n");
+  if (key in data) {
+    if (key === "title") {
+      document.title = data[key];
+    } else if (el.tagName === "INPUT" || el.tagName === "TEXTAREA") {
+      el.placeholder = data[key];
+    } else if (key === "contact_privacy_agree") {
+      // InnerHTML para que el link funcione
+      el.innerHTML = data[key];
+    } else {
+      el.textContent = data[key];
     }
-  });
+  }
+});
 
   document.querySelectorAll("[data-i18n-aria-label]").forEach(el => {
     const key = el.getAttribute("data-i18n-aria-label");

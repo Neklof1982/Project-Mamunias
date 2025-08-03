@@ -7,6 +7,7 @@ document.getElementById('contactoForm').addEventListener('submit', function (e) 
   const nombre = form.nombre.value.trim();
   const email = form.email.value.trim();
   const mensaje = form.mensaje.value.trim();
+  const privacidadCheckbox = document.getElementById('aceptaPrivacidad');
 
   const nombreRegex = /^[A-Za-zÀ-ÿ\s]{1,30}$/;
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -38,6 +39,14 @@ document.getElementById('contactoForm').addEventListener('submit', function (e) 
     return;
   }
 
+  if (!privacidadCheckbox.checked) {
+  Swal.fire({
+    icon: 'error',
+    title: getTranslation('privacidadNoAceptada'),
+    text: getTranslation('debesAceptarPrivacidad')
+  });
+  return;
+}
   Swal.fire({
     title: getTranslation('confirmarEnvio'),
     icon: 'question',

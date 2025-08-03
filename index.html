@@ -176,7 +176,7 @@
             <div class="technique-card" id="polygel">
                 <div class="presentacion-container">
                     <div class="presentacion-imagen">
-                        <img src="./images/tpolygel.png" alt="Uñas de Polygel"
+                        <img src="./images/tpolygel.jpg" alt="Uñas de Polygel"
                             data-i18n-alt="technique_polygel_img_alt" />
                     </div>
                     <div class="presentacion-texto">
@@ -353,7 +353,14 @@
                     data-i18n-placeholder="contact_message_placeholder"></textarea>
                 <span class="noValido" data-i18n="contact_message_error">El mensaje debe tener al menos 10
                     caracteres.</span>
-
+                <div class="checkbox-privacidad">
+                    <input type="checkbox" id="aceptaPrivacidad" required>
+                    <label for="aceptaPrivacidad" data-i18n="contact_privacy_agree">
+                        Acepto la <a href="/pages/privacy.html" target="_blank">política de privacidad</a>.
+                    </label>
+                    <span class="noValido" data-i18n="contact_privacy_error">Debes aceptar la política de
+                        privacidad.</span>
+                </div>
                 <button type="submit" data-i18n="contact_send_button">Enviar</button>
             </form>
         </section>
@@ -381,7 +388,8 @@
                         data-i18n-aria-label="aria_instagram">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a href="https://tiktok.com" target="_blank" aria-label="Ir a TikTok" data-i18n-aria-label="aria_tiktok">
+                    <a href="https://tiktok.com" target="_blank" aria-label="Ir a TikTok"
+                        data-i18n-aria-label="aria_tiktok">
                         <i class="fab fa-tiktok"></i>
                     </a>
                     <a href="https://facebook.com" target="_blank" aria-label="ir a Facebook"

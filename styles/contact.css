@@ -50,3 +50,45 @@
 .contact-form button:hover {
     background-color: #ff6600;
 }
+
+/* Checkbox de política de privacidad */
+.checkbox-privacidad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 0.95rem;
+    color: var(--color-text);
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.4;
+}
+
+.checkbox-privacidad input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: var(--color-secondary);
+}
+
+.checkbox-privacidad label {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.checkbox-privacidad a {
+    color: var(--color-primary);
+    text-decoration: underline;
+}
+
+.checkbox-privacidad a:hover {
+    color: var(--color-secondary);
+    text-decoration: none;
+}
+
+.noValido {
+    color: red;
+    font-size: 0.85rem;
+    display: none; /* Puedes mostrarlo con JS si lo deseas */
+}

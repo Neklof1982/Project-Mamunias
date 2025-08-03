@@ -1,0 +1,31 @@
+/* privacy.css */
+.privacy {
+    background-color: transparent;
+    padding: 60px 20px;
+    margin: 40px auto;
+    min-height: 60vh;
+    color: var(--color-white);
+}
+
+.privacy-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: var(--color-secondary);
+    padding: 30px;
+    border: 2px solid var(--color-primary);
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.privacy-container h2,
+.privacy-container h3 {
+    color: var(--color-white);
+    margin-bottom: 15px;
+}
+
+.privacy-container p,
+.privacy-container li {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
