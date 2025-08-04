@@ -3,9 +3,9 @@ const hamburgerMenu = document.querySelector('.hamburger-menu');
 const nav = document.querySelector('nav');
 
 if (hamburgerMenu && nav) {
-    // Añadir un evento al clic del botón hamburguesa
+    // Eevento clic del botón hamburguesa
     hamburgerMenu.addEventListener('click', () => {
-        // Cambiar la clase 'active' en el nav para mostrar/ocultar el menú
+        // Cambiar la clase para mostrar/ocultar 
         nav.classList.toggle('active');
     });
 }

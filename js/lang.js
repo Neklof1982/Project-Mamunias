@@ -58,7 +58,7 @@ function getTranslation(key) {
   if (translations[currentLang] && translations[currentLang][key]) {
     return translations[currentLang][key];
   }
-  return key;  // Si no se encuentra la clave, devuelve la clave como fallback
+  return key;  // fallback
 }
 
 document.addEventListener("DOMContentLoaded", () => {

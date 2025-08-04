@@ -2,9 +2,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Inicializa Swiper con las opciones necesarias
     const swiper = new Swiper('.swiper-container', {
         slidesPerView: 4,         // Número de productos visibles
-        spaceBetween: 20,         // Espaciado entre los productos
-        loop: true,               // Habilita el bucle infinito
-        breakpoints: {            // Responsividad para pantallas más pequeñas
+        spaceBetween: 20,         
+        loop: true,               // Bucle infinito
+        breakpoints: {            // Responsivo
         320: {
             slidesPerView: 1,     
         },
