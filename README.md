@@ -14,7 +14,7 @@ Además, gracias a su sistema de traducción dinámica, puedes cambiar fácilmen
 
 ## Vista Previa 👀
 
-![Vista Previa](./images/vistaPrevia.jpg){: width="400px" }
+<img src="./images/vistaPrevia.jpg" alt="Vista Previa" width="400"/>
 
 ## Construido con 🛠️
 
