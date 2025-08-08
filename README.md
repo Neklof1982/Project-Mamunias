@@ -1,4 +1,4 @@
-# Mamunias
+# Mamunias  
 
 Este proyecto es una página web moderna y responsive que combina funcionalidad y diseño intuitivo. Incluye un **menú hamburguesa** muy práctico para dispositivos móviles, un **carrusel de productos** interactivo que resalta lo mejor de tu catálogo, y un **formulario de contacto** con validación para asegurar que los mensajes lleguen correctamente.
 
@@ -14,7 +14,7 @@ Además, gracias a su sistema de traducción dinámica, puedes cambiar fácilmen
 
 ## Vista Previa 👀
 
-![Vista Previa](./images/vistaPrevia.jpg)
+<img src="./images/vistaPrevia.jpg" alt="Vista Previa" width="400"/>
 
 ## Construido con 🛠️
 
@@ -81,12 +81,12 @@ Se llevaron a cabo pruebas manuales en diferentes navegadores y dispositivos par
 
 Este proyecto está desplegado en Netlify:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/476cf8ce-f67b-481c-a6a1-cc24d6a43b8b/deploy-status)](https://app.netlify.com/projects/mamunias/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce6a956c-0e57-4782-bd19-bfe75230c389/deploy-status)](https://app.netlify.com/projects/mamunias/deploys)
 
 🔗 [Ver sitio en producción](https://mamunias.netlify.app)
 
 ## Versionado 📌
-Este proyecto se ha utilizando **Git** y **GitHub** para el control de versiones, lo que permite mantener un registro detallado de los cambios realizados durante el desarrollo.
+Este proyecto se ha utilizando **Git** y **GitHub** para el control de versiones, lo que permite mantener un registro detallado de los cambios realizados durante el desarrollo. 
 
 
 ## Licencia 📄
