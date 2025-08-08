@@ -1,5 +1,8 @@
 # Mamunias  
 
+![HTML5](https://img.shields.io/badge/HTML5-%20%2B-orange) ![CSS3](https://img.shields.io/badge/CSS3-%20%2B-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ECMAScript-yellow) ![Swiper.js](https://img.shields.io/badge/Swiper.js-%20%2B-lightblue) ![Fetch API](https://img.shields.io/badge/Fetch_API-%20%2B-darkgreen) ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-%20%2B-pink)
+
+
 Este proyecto es una página web moderna y responsive que combina funcionalidad y diseño intuitivo. Incluye un **menú hamburguesa** muy práctico para dispositivos móviles, un **carrusel de productos** interactivo que resalta lo mejor de tu catálogo, y un **formulario de contacto** con validación para asegurar que los mensajes lleguen correctamente.
 
 Además, gracias a su sistema de traducción dinámica, puedes cambiar fácilmente entre **español** e **inglés**, adaptándose a una audiencia más amplia.
