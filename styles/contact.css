@@ -48,7 +48,7 @@
 }
 
 .contact-form button:hover {
-    background-color: #ff6600;
+    background-color:  var(--color-lavanda);;
 }
 
 /* Checkbox de política de privacidad */

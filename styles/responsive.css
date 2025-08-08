@@ -1,5 +1,9 @@
 /* Pantallas menores a 1200px */
 @media (max-width: 1200px) {
+
+    .hero-text{
+        max-width: 100%;
+    }
     .footer-section {
         flex: 1 1 30%;
     }
@@ -117,6 +121,10 @@
 
     .presentacion-imagen img {
         max-width: 300px;
+    }
+
+    .presentacion-texto p {
+        word-wrap: break-word;
     }
 
     .technique-card {
