@@ -1,5 +1,8 @@
 # Mamunias  
 
+![HTML5](https://img.shields.io/badge/HTML5-%20%2B-orange) ![CSS3](https://img.shields.io/badge/CSS3-%20%2B-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ECMAScript-yellow) ![Swiper.js](https://img.shields.io/badge/Swiper.js-%20%2B-lightblue) ![Fetch API](https://img.shields.io/badge/Fetch_API-%20%2B-darkgreen) ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-%20%2B-pink)
+
+
 Este proyecto es una página web moderna y responsive que combina funcionalidad y diseño intuitivo. Incluye un **menú hamburguesa** muy práctico para dispositivos móviles, un **carrusel de productos** interactivo que resalta lo mejor de tu catálogo, y un **formulario de contacto** con validación para asegurar que los mensajes lleguen correctamente.
 
 Además, gracias a su sistema de traducción dinámica, puedes cambiar fácilmente entre **español** e **inglés**, adaptándose a una audiencia más amplia.
@@ -81,7 +84,7 @@ Se llevaron a cabo pruebas manuales en diferentes navegadores y dispositivos par
 
 Este proyecto está desplegado en Netlify:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ce6a956c-0e57-4782-bd19-bfe75230c389/deploy-status)](https://app.netlify.com/projects/mamunias/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/884c7fdc-6445-45f1-8e4c-3504754c42a2/deploy-status)](https://app.netlify.com/projects/mamunias/deploys)
 
 🔗 [Ver sitio en producción](https://mamunias.netlify.app)
 

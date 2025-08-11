@@ -130,6 +130,23 @@
     .technique-card {
         width: 100%;
     }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+        align-items: stretch;
+    }
+
+    .footer-section {
+        flex: 1 1 100%; /* Ocupar 100% */
+    }
+
+    .social-icons {
+        align-items: center;
+        gap: 15px; 
+    }
+
+
 }
 
 /* Para dispositivos móviles (480px o menos) */
