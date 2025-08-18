@@ -84,9 +84,6 @@ Se llevaron a cabo pruebas manuales en diferentes navegadores y dispositivos par
 
 Este proyecto está desplegado en Netlify:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/02f00bbf-5de0-4d41-8963-a2d4075e86b2/deploy-status?branch=main)](https://app.netlify.com/projects/mamunias/deploys)
-
-
 🔗 [Ver sitio en producción](https://mamunias.netlify.app)
 
 ## Versionado 📌
